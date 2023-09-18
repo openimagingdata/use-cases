@@ -5,6 +5,7 @@ Going to be a living list of ideas for use cases. Can start as just a name and d
 See [README.md](README.md) for explanation of the value categories in parentheses after descriptions.
 
 ## Workflow/Worklist Use Cases
+-**Applying prior DEXA scan data**: When tech runs current DEXA scan, previously excluded levels would automatically be excluded on current study.  This could also be passed downstream to the dictation software with reason from prior report.
 
 ## Protocoling System Use Cases
 
