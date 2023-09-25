@@ -1,17 +1,20 @@
 # OIDM Use Cases
 
 This repository will be used to collect and document ideas for use cases for the Open Imaging Data Model project.
+We understand not everyone will have all the technical knowledge necessary to flesh out the technical aspects of a use case.  Feel free to just submit your use case and we will do what we can to fill in the blanks.  
 
-1. How to define use cases
+1. What is your use case/idea? Please provide an example of the use case to help us better understand.
+2. How to define the use case:
 
    - What information should be captured as part of a use case?
    - Do we want a text (Markdown) or data-based format (JSON)?
+   - Any specialized data input (LOINC for lab data, etc)?
 
-2. How to catalog use cases
+3. How to catalog use cases
 
    - This repository to start
 
-3. Categories of use cases
+4. Categories of use cases
 
    - Workflow/list oriented
    - AI pipeline oriented
@@ -19,7 +22,7 @@ This repository will be used to collect and document ideas for use cases for the
    - Image-viewer oriented
    - Data exploration/outcome oriented
    - Multi-category
-
+   - Misc./Other
 This document will be used to describe our thoughts on how to develop use cases. So far, the idea we have
 is that we'll use an index file [Index.md](Index.md) for people to just list ideas that they've had but haven't
 attached any additional details for (maybe include a brief, one-sentence description). When ideas want to become
