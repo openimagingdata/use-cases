@@ -34,3 +34,25 @@ See [README.md](README.md) for explanation of the value categories in parenthese
 ## PACS Viewing Use Cases
 
 ## Data Exploration Use Cases
+
+## Uncategorized Use Cases
+-Spine numbering with transitional anatomy- Reference previous labeling automatically, or similar to production of lay report, create report with alternative numbering based on spine surgeon preference (need to look at medical legal issues here), could also get info from surgeon report for feedback on spine numbering (pop up to radiologist “would you like schema A or schema B?”)
+
+-Comparison cases- RCC or Melanoma have highly variable appearance, system could potentially use terms in report someone is dictating to find similar cases to boost confidence in diagnosis, would be more powerful if could have access to data from multiple other sites, also could help teach trainees, or overnight/urgent care staff that has to wait for formal radiology read in the morning
+
+-Auto-populate current and prior measurements for CT/MR angiography of the thoracic aorta to be able to indicate interval change without a lot of manual steps. Correctly classify as normal/dilated/aneurysm, etc. Same for abdominal aorta.
+
+-Trainee Teaching file/case search/research/literature search
+
+-Biopsy/scan follow up
+
+-Tie in with SWIM initiative
+
+-Populate PowerScribe findings mode dictionary 
+
+-Surg/imaging/path correlation- Currently a fairly manual process (imaging report comparing with op notes), with CDE could automate and more easily find discordant cases for feedback and improvement
+
+-Reduce laterality issues/body part with orders- intake staff order may be contralateral to the progress note (or order a foot when they wanted an ankle), can flag this and potentially reduce phone calls/confusion before it gets to the level of the radiologist
+
+-Cross reference EMR for data to support imaging finding- example non contrast ct chest blood pool less dense than cardiac muscle would indicate anemia, system could then verify last H&H and drop that information in helping to support the imaging finding
+
